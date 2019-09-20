@@ -83,8 +83,8 @@ public class ArrayArrayArrayArrayArrayArray {
                 System.out.println("Data ketemu pas indeksnya " + i);
             }
         }
-        if (ketemu == true) {
-            System.out.println("Data ada");
+        if (ketemu != true) {
+            System.out.println("Data tidak ada");
 
         }
     }
